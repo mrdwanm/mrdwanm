@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+Hi there 👋 I'm Ridwan
+
+- 📚 I'm currently learning Python, Data Analysis, Data Engineer
+- I'm looking for help with master of Python and Data Engineering 👀
+- 📫 How to reach me: mrdwanmaulana8@gmail.com
+
 
 <!--
 **mrdwanm/mrdwanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
